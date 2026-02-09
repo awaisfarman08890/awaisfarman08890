@@ -1,5 +1,24 @@
 # 💫 About Me:
-Results-driven Java Full Stack Developer with 1 year of hands-on experience building all types of SaaS applications, including AI-powered platforms, E-commerce systems, and scalable web applications. Capable of delivering end-to-end solutions from frontend & backend development to database design, cloud deployment, and production readiness. Strong expertise in Spring Boot, Microservices, Event-Driven Architecture, React/Next.js, and Spring AI for business chatbots and AI-assisted SaaS products. Focused on scalability, real-time communication, and secure, maintainable architectures. Actively seeking a Dubai-based role with immediate availability.
+## 👨‍💻 Java Full Stack Developer
+
+**Results-driven Java Full Stack Developer** with **1 year of hands-on experience** building **SaaS applications**, including **AI-powered platforms**, **E-commerce systems**, and **scalable web applications**.
+
+Expert in **end-to-end development** — **backend**, **frontend**, **databases**, **cloud deployment**, and **production readiness**.
+
+### 🔧 Tech Stack
+- **Java**, **Spring Boot**, **Spring Data JPA**, **REST APIs**
+- **Microservices**, **Event-Driven Architecture**
+- **React.js**, **Next.js**, **Vite**
+- **Spring Security**, **OAuth2**, **JWT**
+- **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**
+- **Kafka**, **RabbitMQ**
+- **Docker**, **Kubernetes**, **CI/CD**
+- **AWS**, **Azure**, **GCP**, **DigitalOcean**
+- **Spring AI**, **RAG**, **MCP**
+
+Focused on **scalable**, **secure**, and **real-time systems**.
+
+📍 **Seeking a Dubai-based role** | ⚡ **Immediate availability**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awaisfarman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awaisfarman2222@gmail.com) 
