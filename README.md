@@ -1,8 +1,5 @@
 # 💫 About Me:
-Hi! I'm Awais 👋 — a Full Stack Developer from Pakistan 🇵🇰. I love building real-world applications with modern technologies 🚀. I work with Spring Boot microservices, React, Next.js, Vue.js, Docker, Kubernetes, PostgreSQL, MongoDB 🛠️, and focus on writing clean & scalable code 💻.
-
-I enjoy creating practical projects 📂, improving architecture 🏗️, and learning advanced backend concepts like distributed systems 🌐 and cloud-native development ☁️. My GitHub reflects my journey — from small apps to production-grade microservices 📈.
-
+Results-driven Java Full Stack Developer with 1 year of hands-on experience building all types of SaaS applications, including AI-powered platforms, E-commerce systems, and scalable web applications. Capable of delivering end-to-end solutions from frontend & backend development to database design, cloud deployment, and production readiness. Strong expertise in Spring Boot, Microservices, Event-Driven Architecture, React/Next.js, and Spring AI for business chatbots and AI-assisted SaaS products. Focused on scalability, real-time communication, and secure, maintainable architectures. Actively seeking a Dubai-based role with immediate availability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awaisfarman/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awaisfarman2222@gmail.com) 
